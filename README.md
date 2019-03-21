@@ -13,5 +13,5 @@ npx parliament-petition 241584
 Watch in realtime:
 
 ```bash
-npx parliament-petition 241584 --watch
+npx parliament-petition watch 241584
 ```
